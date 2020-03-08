@@ -1,0 +1,244 @@
+[2020-03-06 11:42:19.494] [exthost] [info] extension host started
+[2020-03-06 11:42:19.653] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-06 11:42:19.654] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-06 11:42:19.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-03-06 11:42:19.740] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-03-06 11:42:19.935] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-06 11:42:19.935] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/git/dist/main
+[2020-03-06 11:42:20.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-06 11:42:20.253] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-06 11:42:20.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-06 11:42:20.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-03-06 11:42:20.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-06 11:42:20.285] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-03-06 11:42:20.297] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"extensionId":{"value":"bierner.color-info","_lower":"bierner.color-info"},"activationEvent":"*"}
+[2020-03-06 11:42:20.303] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2020-03-06 11:42:21.127] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-03-06 11:42:21.127] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-03-06 11:42:21.235] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-03-06 11:42:21.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2020-03-06 11:42:21.572] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-03-06 11:42:21.573] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2020-03-06 11:42:22.552] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-03-06 11:42:22.552] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2020-03-06 11:42:24.110] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-03-06 11:42:24.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/ionutvmi.path-autocomplete-1.13.3/out/src/extension
+[2020-03-06 11:42:24.271] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock {"startup":true,"extensionId":{"value":"johnpapa.vscode-peacock","_lower":"johnpapa.vscode-peacock"},"activationEvent":"*"}
+[2020-03-06 11:42:24.272] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/johnpapa.vscode-peacock-2.5.2/dist/extension
+[2020-03-06 11:42:24.384] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-03-06 11:42:24.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.581/out/prod/extension-prod
+[2020-03-06 11:42:25.535] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"extensionId":{"value":"nrwl.angular-console","_lower":"nrwl.angular-console"},"activationEvent":"*"}
+[2020-03-06 11:42:25.536] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/nrwl.angular-console-8.0.10/main.js
+[2020-03-06 11:42:25.640] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-03-06 11:42:25.640] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/pkief.material-icon-theme-3.8.1/dist/extension
+[2020-03-06 11:42:25.709] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2020-03-06 11:42:25.709] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2020-03-06 11:42:26.545] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-03-06 11:42:26.545] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-03-06 11:42:31.388] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"extensionId":{"value":"WallabyJs.quokka-vscode","_lower":"wallabyjs.quokka-vscode"},"activationEvent":"*"}
+[2020-03-06 11:42:31.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/wallabyjs.quokka-vscode-1.0.238/index
+[2020-03-06 11:42:35.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-03-06 11:42:35.356] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/npm/dist/main
+[2020-03-06 11:43:02.033] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.live-sass {"startup":true,"extensionId":{"value":"ritwickdey.live-sass","_lower":"ritwickdey.live-sass"},"activationEvent":"workspaceContainsTimeout:**/*.s[ac]ss"}
+[2020-03-06 11:43:02.033] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/ritwickdey.live-sass-3.0.0/out/src/extension
+[2020-03-06 11:43:11.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-06 11:43:11.077] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-03-06 11:43:11.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-06 11:43:11.168] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-03-06 11:43:11.771] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-06 11:43:11.771] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-03-06 11:43:13.665] [exthost] [info] eager extensions activated
+[2020-03-06 11:45:27.627] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:scss"}
+[2020-03-06 11:45:27.628] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2020-03-06 11:46:07.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onWebviewEditor:imagePreview.previewEditor"}
+[2020-03-06 11:46:07.134] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/image-preview/dist/extension
+[2020-03-06 12:31:49.901] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-03-06 12:31:49.902] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-03-06 12:31:50.143] [exthost] [info] ExtensionService#_doActivateExtension AESSoft.aessoft-class-autocomplete {"startup":false,"extensionId":{"value":"AESSoft.aessoft-class-autocomplete","_lower":"aessoft.aessoft-class-autocomplete"},"activationEvent":"onLanguage:html"}
+[2020-03-06 12:31:50.144] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/AESSoft.aessoft-class-autocomplete-0.1.0/extension
+[2020-03-06 12:31:51.198] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"extensionId":{"value":"Angular.ng-template","_lower":"angular.ng-template"},"activationEvent":"onLanguage:html"}
+[2020-03-06 12:31:51.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/angular.ng-template-0.801.1/out/extension
+[2020-03-06 12:31:51.702] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.jshint {"startup":false,"extensionId":{"value":"dbaeumer.jshint","_lower":"dbaeumer.jshint"},"activationEvent":"onLanguage:html"}
+[2020-03-06 12:31:51.703] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/dbaeumer.jshint-0.10.20/jshint/out/extension
+[2020-03-06 13:11:38.777] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-03-06 13:11:38.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-03-06 13:11:39.131] [exthost] [info] ExtensionService#_doActivateExtension eg2.tslint {"startup":false,"extensionId":{"value":"eg2.tslint","_lower":"eg2.tslint"},"activationEvent":"onLanguage:typescript"}
+[2020-03-06 13:11:39.131] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/eg2.tslint-1.0.44/out/extension
+[2020-03-06 13:11:40.437] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"extensionId":{"value":"ms-vscode.vscode-typescript-tslint-plugin","_lower":"ms-vscode.vscode-typescript-tslint-plugin"},"activationEvent":"onLanguage:typescript"}
+[2020-03-06 13:11:40.437] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/out/index.js
+[2020-03-06 13:11:40.526] [exthost] [info] ExtensionService#_doActivateExtension natewallace.angular2-inline {"startup":false,"extensionId":{"value":"natewallace.angular2-inline","_lower":"natewallace.angular2-inline"},"activationEvent":"onLanguage:typescript"}
+[2020-03-06 13:11:40.526] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/natewallace.angular2-inline-0.0.17/src/main
+[2020-03-06 13:11:44.265] [exthost] [error] [ms-vsliveshare.vsliveshare] provider FAILED
+[2020-03-06 13:11:44.265] [exthost] [error] Error: Illegal argument
+    at Object.t.illegalArgument (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:54:146)
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1843:749
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1789:61
+    at h.invokeFunction (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1580:522)
+    at u._tryExecuteCommand (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3331:844)
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3331:578
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-03-06 15:36:37.902] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"extensionId":{"value":"eg2.vscode-npm-script","_lower":"eg2.vscode-npm-script"},"activationEvent":"onLanguage:json"}
+[2020-03-06 15:36:37.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmed/.vscode/extensions/eg2.vscode-npm-script-0.3.8/dist/extension
+[2020-03-06 15:36:39.143] [exthost] [error] [ms-vsliveshare.vsliveshare] provider FAILED
+[2020-03-06 15:36:39.144] [exthost] [error] Error: Illegal argument
+    at Object.t.illegalArgument (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:54:146)
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1843:749
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1789:61
+    at h.invokeFunction (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1580:522)
+    at u._tryExecuteCommand (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3331:844)
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3331:578
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-03-06 15:40:34.625] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-03-06 15:46:27.657] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-03-06 15:46:27.657] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.5)
+Cannot read property 'end' of undefined
+TypeError: Cannot read property 'end' of undefined
+    at getClassOrObjectBraceEnds (tsserver.js:119887:148)
+    at ChangeTracker.getInsertNodeAtStartPrefixSuffix (tsserver.js:119614:99)
+    at ChangeTracker.insertNodeAtStartWorker (tsserver.js:119607:136)
+    at ChangeTracker.insertNodeAtClassStart (tsserver.js:119598:22)
+    at tsserver.js:123360:175
+    at outputMethod (tsserver.js:125503:21)
+    at addNewNodeForMemberSymbol (tsserver.js:125480:25)
+    at Object.createMissingMemberNodes (tsserver.js:125394:21)
+    at addMissingDeclarations (tsserver.js:123360:21)
+    at tsserver.js:123321:100
+    at Function.ChangeTracker.with (tsserver.js:119390:17)
+    at tsserver.js:123321:68
+    at Object.mapDefined (tsserver.js:565:30)
+    at Object.getCodeActions (tsserver.js:123320:27)
+    at tsserver.js:120431:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120431:23)
+    at tsserver.js:131114:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Proxy.getCodeFixesAtPosition (tsserver.js:131112:23)
+    at TSLintPlugin.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:170:34)
+    at Proxy.intercept.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:77:25)
+    at IOSession.Session.getCodeFixes (tsserver.js:140767:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139552:61)
+    at tsserver.js:140960:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140951:28)
+    at IOSession.Session.executeCommand (tsserver.js:140960:33)
+    at IOSession.Session.onMessage (tsserver.js:140983:35)
+    at Interface.<anonymous> (tsserver.js:142298:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:49149)
+	at h.dispatchResponse (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:213785)
+	at h.dispatchMessage (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212703)
+	at /snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212179
+	at l.fire (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:541)
+	at t.Reader.onLengthData (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:219256)
+	at Socket.<anonymous> (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:218904)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-03-06 15:46:28.949] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 15:46:34.313] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 15:46:41.714] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 15:47:59.826] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 15:48:20.622] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 15:48:34.420] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 15:48:43.398] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 15:49:01.651] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 15:53:05.294] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-03-06 15:53:05.417] [exthost] [error] Error: DisposableStore is missing...
+	at F._convertCompletionItem (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:986)
+	at /snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:764
+[2020-03-06 16:02:18.375] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-03-06 16:02:18.437] [exthost] [error] Error: DisposableStore is missing...
+	at F._convertCompletionItem (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:986)
+	at /snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:764
+[2020-03-06 16:09:33.788] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-03-06 16:09:33.789] [exthost] [error] Error: DisposableStore is missing...
+	at F._convertCompletionItem (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:986)
+	at /snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:764
+[2020-03-06 16:09:42.206] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-03-06 16:09:42.207] [exthost] [error] Error: DisposableStore is missing...
+	at F._convertCompletionItem (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:986)
+	at /snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:764
+[2020-03-06 16:46:18.084] [exthost] [warning] INVALID text edit -> must have at least a label
+[2020-03-06 16:46:32.404] [exthost] [warning] INVALID text edit -> must have at least a label
+[2020-03-06 16:46:33.943] [exthost] [warning] INVALID text edit -> must have at least a label
+[2020-03-06 17:23:49.910] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-03-06 17:23:49.911] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.5)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+    at Object.cast (tsserver.js:1349:25)
+    at doChange (tsserver.js:121270:40)
+    at tsserver.js:121172:109
+    at Function.ChangeTracker.with (tsserver.js:119390:17)
+    at Object.getCodeActions (tsserver.js:121172:64)
+    at tsserver.js:120431:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120431:23)
+    at tsserver.js:131114:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Proxy.getCodeFixesAtPosition (tsserver.js:131112:23)
+    at TSLintPlugin.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:170:34)
+    at Proxy.intercept.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:77:25)
+    at IOSession.Session.getCodeFixes (tsserver.js:140767:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139552:61)
+    at tsserver.js:140960:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140951:28)
+    at IOSession.Session.executeCommand (tsserver.js:140960:33)
+    at IOSession.Session.onMessage (tsserver.js:140983:35)
+    at Interface.<anonymous> (tsserver.js:142298:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:49149)
+	at h.dispatchResponse (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:213785)
+	at h.dispatchMessage (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212703)
+	at /snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212179
+	at l.fire (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:541)
+	at t.Reader.onLengthData (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:219256)
+	at Socket.<anonymous> (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:218904)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-03-06 17:34:23.482] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-03-06 17:34:23.483] [exthost] [error] Error: DisposableStore is missing...
+	at F._convertCompletionItem (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:986)
+	at /snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:589:764
+[2020-03-06 19:57:14.475] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:00:47.608] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:00:54.614] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:00:58.307] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:01:57.730] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:01:57.777] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:01:57.849] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:01:58.147] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:01:58.747] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:01:59.753] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:02:33.687] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:02:40.190] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:03:00.549] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:03:21.067] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:03:21.594] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:03:30.368] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:05:31.798] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:05:38.363] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:05:41.424] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 20:05:42.882] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 21:49:00.355] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2020-03-06 21:49:01.185] [exthost] [warning] eg2.tslint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.

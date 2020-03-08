@@ -1,0 +1,66 @@
+[2020-03-06 11:42:16.467] [sharedprocess] [info] main {"machineId":"246ed39f1795be2b5bd0acdb84d64336684c8e7e5936de3fbdb81fe3e4259a53","windowId":2}
+[2020-03-06 11:42:21.647] [sharedprocess] [info] Installing extension: angular.ng-template
+[2020-03-06 11:42:21.648] [sharedprocess] [info] Installing extension: dbaeumer.jshint
+[2020-03-06 11:42:21.648] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2020-03-06 11:42:21.648] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2020-03-06 11:42:21.649] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-03-06 11:42:21.649] [sharedprocess] [info] Installing extension: johnpapa.angular-essentials
+[2020-03-06 11:42:21.649] [sharedprocess] [info] Installing extension: johnpapa.angular2
+[2020-03-06 11:42:21.658] [sharedprocess] [info] Installing extension: johnpapa.vscode-peacock
+[2020-03-06 11:42:21.659] [sharedprocess] [info] Installing extension: johnpapa.winteriscoming
+[2020-03-06 11:42:21.659] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-03-06 11:42:21.659] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-tslint-plugin
+[2020-03-06 11:42:21.660] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2020-03-06 11:42:21.660] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2020-03-06 11:42:21.660] [sharedprocess] [info] Installing extension: nrwl.angular-console
+[2020-03-06 11:42:21.660] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-03-06 11:42:21.661] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2020-03-06 11:42:28.068] [sharedprocess] [error] Failed to install extension: editorconfig.editorconfig 
+[2020-03-06 11:42:28.071] [sharedprocess] [error] Failed to install extension: dbaeumer.jshint 
+[2020-03-06 11:42:28.076] [sharedprocess] [error] Failed to install extension: eg2.vscode-npm-script 
+[2020-03-06 11:42:28.078] [sharedprocess] [error] Failed to install extension: johnpapa.angular-essentials 
+[2020-03-06 11:42:28.091] [sharedprocess] [error] Failed to install extension: johnpapa.angular2 
+[2020-03-06 11:42:28.101] [sharedprocess] [error] Failed to install extension: johnpapa.vscode-peacock 
+[2020-03-06 11:42:28.107] [sharedprocess] [error] Failed to install extension: johnpapa.winteriscoming 
+[2020-03-06 11:42:28.109] [sharedprocess] [error] Failed to install extension: angular.ng-template 
+[2020-03-06 11:42:30.069] [sharedprocess] [error] Failed to install extension: esbenp.prettier-vscode 
+[2020-03-06 11:42:30.071] [sharedprocess] [error] Failed to install extension: ms-python.python 
+[2020-03-06 11:42:30.072] [sharedprocess] [error] Failed to install extension: ms-vscode.vscode-typescript-tslint-plugin 
+[2020-03-06 11:42:30.077] [sharedprocess] [error] Failed to install extension: ms-vsliveshare.vsliveshare 
+[2020-03-06 11:42:30.078] [sharedprocess] [error] Failed to install extension: msjsdiag.debugger-for-chrome 
+[2020-03-06 11:42:30.080] [sharedprocess] [error] Failed to install extension: nrwl.angular-console 
+[2020-03-06 11:42:32.068] [sharedprocess] [error] Failed to install extension: pkief.material-icon-theme 
+[2020-03-06 11:42:32.070] [sharedprocess] [error] Failed to install extension: wallabyjs.quokka-vscode 
+[2020-03-06 11:42:56.432] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-06 23:42:23.893] [sharedprocess] [info] Installing extension: angular.ng-template
+[2020-03-06 23:42:23.904] [sharedprocess] [info] Installing extension: dbaeumer.jshint
+[2020-03-06 23:42:23.904] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2020-03-06 23:42:23.905] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2020-03-06 23:42:23.905] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-03-06 23:42:23.905] [sharedprocess] [info] Installing extension: johnpapa.angular-essentials
+[2020-03-06 23:42:23.905] [sharedprocess] [info] Installing extension: johnpapa.angular2
+[2020-03-06 23:42:23.905] [sharedprocess] [info] Installing extension: johnpapa.vscode-peacock
+[2020-03-06 23:42:23.905] [sharedprocess] [info] Installing extension: johnpapa.winteriscoming
+[2020-03-06 23:42:23.905] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-03-06 23:42:23.906] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-tslint-plugin
+[2020-03-06 23:42:23.906] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2020-03-06 23:42:23.906] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2020-03-06 23:42:23.906] [sharedprocess] [info] Installing extension: nrwl.angular-console
+[2020-03-06 23:42:23.906] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-03-06 23:42:23.906] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2020-03-06 23:42:30.267] [sharedprocess] [error] Failed to install extension: angular.ng-template 
+[2020-03-06 23:42:31.241] [sharedprocess] [error] Failed to install extension: dbaeumer.jshint 
+[2020-03-06 23:42:31.244] [sharedprocess] [error] Failed to install extension: editorconfig.editorconfig 
+[2020-03-06 23:42:31.246] [sharedprocess] [error] Failed to install extension: eg2.vscode-npm-script 
+[2020-03-06 23:42:31.250] [sharedprocess] [error] Failed to install extension: johnpapa.angular-essentials 
+[2020-03-06 23:42:31.251] [sharedprocess] [error] Failed to install extension: johnpapa.angular2 
+[2020-03-06 23:42:31.263] [sharedprocess] [error] Failed to install extension: johnpapa.vscode-peacock 
+[2020-03-06 23:42:31.264] [sharedprocess] [error] Failed to install extension: johnpapa.winteriscoming 
+[2020-03-06 23:42:32.241] [sharedprocess] [error] Failed to install extension: esbenp.prettier-vscode 
+[2020-03-06 23:42:32.244] [sharedprocess] [error] Failed to install extension: ms-vscode.vscode-typescript-tslint-plugin 
+[2020-03-06 23:42:33.239] [sharedprocess] [error] Failed to install extension: ms-python.python 
+[2020-03-06 23:42:33.265] [sharedprocess] [error] Failed to install extension: ms-vsliveshare.vsliveshare 
+[2020-03-06 23:42:33.268] [sharedprocess] [error] Failed to install extension: nrwl.angular-console 
+[2020-03-06 23:42:33.270] [sharedprocess] [error] Failed to install extension: msjsdiag.debugger-for-chrome 
+[2020-03-06 23:42:34.239] [sharedprocess] [error] Failed to install extension: pkief.material-icon-theme 
+[2020-03-06 23:42:34.240] [sharedprocess] [error] Failed to install extension: wallabyjs.quokka-vscode 

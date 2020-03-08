@@ -1,0 +1,25 @@
+<section class="video-details">
+  <iframe id="video-iframe" width="100%" height="360"
+    [src]="videoUrl | safe: 'resourceUrl'" frameborder="0"></iframe>
+  <div class="container">
+    <div class="video-info">
+      <div class="video-info__item">
+        <h3 class="video-title">{{ videoInfo.snippet.title }}</h3>
+        <button class="secondary-btn">Add to favorite</button>
+      </div>
+      <div class="video-info__item">
+        <div class="rate">Rate Now</div>
+        <div class="duration">Duration: {{ videoInfo.contentDetails.duration | time }}</div>
+        <div class="statistics">
+          <p><span><fa-icon [icon]="faEye"></fa-icon> {{ videoInfo.statistics.viewCount | number }}</span> <span class="like"><fa-icon [icon]="faThumbsUp"></fa-icon> {{ videoInfo.statistics.likeCount | number }}</span> <span class="dislike"><fa-icon [icon]="faThumbsDown"></fa-icon> {{ videoInfo.statistics.dislikeCount | number }}</span></p>
+        </div>
+      </div>
+      <div class="video-info__item">
+        <p class="published">Published on: {{ videoInfo.snippet.publishedAt | date }}</p>
+        <p class="description">
+          {{ videoInfo.snippet.description }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

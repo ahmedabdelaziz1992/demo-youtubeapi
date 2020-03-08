@@ -1,0 +1,1545 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/ahmed/Desktop
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 0c9d19468300f164ad3905562e934e98346f38c0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/styles.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/styles.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Asset Front End Task/asset-task/src/assets/images/arrow-next.svg
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/images/arrow-next.svg
+> git show :Asset Front End Task/asset-task/src/assets/images/arrow-prev.svg
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/images/arrow-prev.svg
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Asset Front End Task/asset-task/src/assets/scss/abstracts/_functions.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/abstracts/_functions.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/abstracts/_media-queries.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/abstracts/_media-queries.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git check-ignore -v -z --stdin
+> git show :Asset Front End Task/asset-task/src/assets/scss/base/_base.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/base/_base.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/base/_fonts.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/base/_fonts.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/base/_helpers.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/base/_helpers.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/base/_typography.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/base/_typography.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git check-ignore -v -z --stdin
+> git show :Asset Front End Task/asset-task/src/assets/scss/components/_button.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/components/_button.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/assets/scss/components/_form.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/components/_form.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/abstracts/_variables.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/components/_form.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/components/_form.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/components/_button.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/components/_button.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/components/_form.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/components/_form.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/components/_slider.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/components/_slider.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/assets/scss/components/_form.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/components/_form.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/styles.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/styles.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/styles.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/styles.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :Asset Front End Task/asset-task/src/assets/scss/pages/_home.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/pages/_home.scss
+> git show :Asset Front End Task/asset-task/src/styles.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/styles.scss
+> git show :Asset Front End Task/asset-task/src/assets/scss/layout/_header.scss
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/assets/scss/layout/_header.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :Asset Front End Task/asset-task/src/app/app.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_models/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_models/index.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git status -z -u
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app-routing.module.ts
+> git show :Asset Front End Task/asset-task/src/app/app.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/app.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/app.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git show :Asset Front End Task/asset-task/src/app/app.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.component.html
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/sortableHeader.directive.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/app.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.component.html
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git show :Asset Front End Task/asset-task/src/app/app.component.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.component.html
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :Asset Front End Task/asset-task/src/environments/environment.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.ts
+> git show :Asset Front End Task/asset-task/src/environments/environment.prod.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.prod.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show :Asset Front End Task/asset-task/src/environments/environment.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.ts
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/environments/environment.prod.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.prod.ts
+> git show :Asset Front End Task/asset-task/src/environments/environment.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.ts
+> git show :Asset Front End Task/asset-task/src/environments/environment.prod.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.prod.ts
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_models/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_models/index.ts
+> git show :Asset Front End Task/asset-task/src/app/home/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/index.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git show :Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/index.ts
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_models/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_models/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git show :Asset Front End Task/asset-task/src/environments/environment.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git show :Asset Front End Task/asset-task/tsconfig.app.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.app.json
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/tsconfig.spec.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.spec.json
+> git show :Asset Front End Task/asset-task/tsconfig.app.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.app.json
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/src/index.html
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/index.html
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/tsconfig.spec.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.spec.json
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/tsconfig.app.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.app.json
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/tsconfig.app.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.app.json
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/src/environments/environment.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/tslint.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tslint.json
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/environments/environment.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.ts
+> git show :Asset Front End Task/asset-task/src/environments/environment.prod.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.prod.ts
+> git show :Asset Front End Task/asset-task/src/environments/environment.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/environments/environment.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git show :Asset Front End Task/asset-task/tsconfig.json
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/tsconfig.json
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git show :Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git symbolic-ref --short HEAD
+> git show :Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_services/index.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/index.ts
+> git show :Asset Front End Task/asset-task/src/app/app.module.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/app.module.ts
+> git show :Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_helpers/loader.interceptor.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git show :Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/home/home.component.ts
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git ls-files --stage -- /home/ahmed/Desktop/Asset Front End Task/asset-task/src/app/_services/youtube.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

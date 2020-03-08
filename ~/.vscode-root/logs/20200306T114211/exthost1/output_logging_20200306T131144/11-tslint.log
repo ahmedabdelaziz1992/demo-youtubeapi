@@ -1,0 +1,12 @@
+[Info  - 1:11:44 PM] Linter is running.
+Warning: The 'deprecation' rule requires type information.
+[Warn  - 1:11:55 PM] Warning: The 'deprecation' rule requires type information.
+[Warn  - 5:24:28 PM] Failed to load the TSLint library for the document /snap/code/25/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es5.d.ts
+To use TSLint for single file install tslint globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen VS Code after installing tslint.
+[Warn  - 5:36:19 PM] Failed to load the TSLint library for the document /snap/code/25/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es5.d.ts
+To use TSLint for single file install tslint globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen VS Code after installing tslint.
+[Info  - 3:14:53 AM] Linter has stopped.

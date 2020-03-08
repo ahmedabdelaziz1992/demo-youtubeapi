@@ -1,0 +1,641 @@
+Initializing document watcher...
+Detected change in configuration: {}
+Detected change in configuration: {}
+Detected change in configuration: {}
+asset-task/src/styles.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/styles.scss: Using EditorConfig core...
+src/styles.scss: editor.action.trimTrailingWhitespace
+src/styles.scss: insertFinalNewline(LF)
+asset-task/src/assets/images/arrow-next.svg: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/images/arrow-prev.svg: {"insertSpaces":true,"tabSize":2}
+No more open editors.
+asset-task/src/assets/scss/abstracts/_functions.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/abstracts/_media-queries.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/abstracts/_variables.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/base/_base.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/abstracts/_variables.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/base/_fonts.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/abstracts/_variables.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/base/_helpers.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/abstracts/_variables.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/base/_typography.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/abstracts/_variables.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/components/_button.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/components/_button.scss: Using EditorConfig core...
+src/assets/scss/components/_button.scss: editor.action.trimTrailingWhitespace
+asset-task/src/assets/scss/components/_form.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/components/_form.scss: Using EditorConfig core...
+src/assets/scss/components/_form.scss: editor.action.trimTrailingWhitespace
+asset-task/src/assets/scss/abstracts/_variables.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/components/_form.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/components/_button.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/components/_form.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/components/_slider.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/components/_slider.scss: Using EditorConfig core...
+src/assets/scss/components/_slider.scss: editor.action.trimTrailingWhitespace
+asset-task/src/assets/scss/components/_form.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/components/_form.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/styles.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/styles.scss: Using EditorConfig core...
+src/styles.scss: editor.action.trimTrailingWhitespace
+No more open editors.
+No more open editors.
+asset-task/src/styles.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/styles.scss: Using EditorConfig core...
+src/styles.scss: editor.action.trimTrailingWhitespace
+asset-task/src/assets/scss/pages/_home.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/styles.scss: {"insertSpaces":true,"tabSize":2}
+No more open editors.
+No more open editors.
+No more open editors.
+No more open editors.
+asset-task/src/assets/scss/layout/_header.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/assets/scss/layout/_header.scss: Using EditorConfig core...
+src/assets/scss/layout/_header.scss: editor.action.trimTrailingWhitespace
+asset-task/src/assets/scss/layout/_header.scss: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+No more open editors.
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+Detected change in configuration: {}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: Using EditorConfig core...
+tsconfig.json: editor.action.trimTrailingWhitespace
+No more open editors.
+No more open editors.
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_models/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/index.ts: Using EditorConfig core...
+src/app/home/index.ts: editor.action.trimTrailingWhitespace
+src/app/home/index.ts: insertFinalNewline(LF)
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+src/app/home/home.component.html: insertFinalNewline(LF)
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+src/app/home/home.component.html: insertFinalNewline(LF)
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+Detected change in configuration: {}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+src/app/home/home.component.html: insertFinalNewline(LF)
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app-routing.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+src/app/home/home.component.html: insertFinalNewline(LF)
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: Using EditorConfig core...
+src/app/_helpers/sortableHeader.directive.ts: editor.action.trimTrailingWhitespace
+src/app/_helpers/sortableHeader.directive.ts: insertFinalNewline(LF)
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: Using EditorConfig core...
+src/app/_helpers/sortableHeader.directive.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+src/app/home/home.component.html: trimTrailingWhitespace()
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/sortableHeader.directive.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.prod.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.prod.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.prod.ts: Using EditorConfig core...
+src/environments/environment.prod.ts: editor.action.trimTrailingWhitespace
+asset-task/src/environments/environment.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.ts: Using EditorConfig core...
+src/environments/environment.ts: editor.action.trimTrailingWhitespace
+asset-task/src/environments/environment.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.prod.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.prod.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+Detected change in configuration: {}
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+src/app/home/home.component.html: insertFinalNewline(LF)
+asset-task/src/app/home/home.component.html: Using EditorConfig core...
+src/app/home/home.component.html: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+src/app/_services/youtube.service.ts: insertFinalNewline(LF)
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_models/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/index.ts: Using EditorConfig core...
+src/app/_services/index.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_helpers/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_models/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.app.json: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.spec.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.app.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/src/index.html: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.spec.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.app.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.app.json: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/tslint.json: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.prod.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.prod.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.prod.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.prod.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/environments/environment.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/tsconfig.json: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: Using EditorConfig core...
+asset-task/src/app/_helpers/index.ts: Using EditorConfig core...
+src/app/_helpers/loader.interceptor.ts: trimTrailingWhitespace()
+src/app/_helpers/loader.interceptor.ts: insertFinalNewline(LF)
+asset-task/src/app/_helpers/index.ts: {"insertSpaces":true,"tabSize":2}
+src/app/_helpers/index.ts: editor.action.trimTrailingWhitespace
+src/app/_helpers/index.ts: insertFinalNewline(LF)
+asset-task/src/app/_helpers/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: Using EditorConfig core...
+src/app/_helpers/loader.interceptor.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_helpers/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/index.ts: Using EditorConfig core...
+src/app/_helpers/index.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/index.ts: Using EditorConfig core...
+src/app/_helpers/index.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/index.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_helpers/loader.interceptor.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: Using EditorConfig core...
+src/app/home/home.component.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/home/home.component.html: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}
+asset-task/src/app/_services/youtube.service.ts: Using EditorConfig core...
+src/app/_services/youtube.service.ts: editor.action.trimTrailingWhitespace
+asset-task/src/app/_services/youtube.service.ts: {"insertSpaces":true,"tabSize":2}

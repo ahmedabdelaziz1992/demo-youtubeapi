@@ -1,0 +1,51 @@
+<ngx-spinner bdOpacity=0.9 bdColor="#333" size="medium" color="#fff" type="square-jelly-box" [fullScreen]="true">
+  <p style="color: white"></p>
+</ngx-spinner>
+
+<section class="channels-listing">
+  <div class="container">
+    <div class="search mt-3">
+      <input type="text" class="form-control" [formControl]="channelName" placeholder="Search by channel name" />
+    </div>
+    <div class="filter">
+      <div class="logo">
+        <a href="#" class="logo-link"><img src="../../assets/images/logo.png" alt="Logo Image Inmobly"></a>
+      </div>
+      <div class="search">
+        <input type="text" class="form-control" [formControl]="filter" placeholder="Filter by video title" />
+      </div>
+    </div>
+    <ng-container *ngIf="videos && videos.length > 0">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col"></th>
+            <th scope="col" sortable="title" (sort)="onSort($event)">Title</th>
+            <th scope="col" sortable="publishedAt" (sort)="onSort($event)">Publish Date</th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let video of videos | slice: (page-1) * pageSize : (page-1) * pageSize + pageSize">
+            <td scope="row">
+              <img [src]="video.snippet.thumbnails.medium.url">
+            </td>
+            <td>
+              <ngb-highlight [result]="video.snippet.title" [term]="filter.value"></ngb-highlight>
+            </td>
+            <td>
+              <ngb-highlight [result]="video.snippet.publishedAt | date" [term]="filter.value"></ngb-highlight>
+            </td>
+            <td class="options">
+              <a class="main-btn" [routerLink]="['/details', video.id.videoId]">Details</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="d-flex justify-content-end">
+        <ngb-pagination [collectionSize]="collectionSize" [(page)]="page" [pageSize]="pageSize">
+        </ngb-pagination>
+      </div>
+    </ng-container>
+  </div>
+</section>

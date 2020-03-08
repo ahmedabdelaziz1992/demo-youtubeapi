@@ -1,0 +1,223 @@
+[2020-03-06 11:42:28.115] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: downloading
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:447:524
+[2020-03-06 11:42:28.811] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 32% of 5154.148ms, saved PROFILE here: '/tmp/exthost-679ed7.cpuprofile' [{"id":"gc","total":14792,"percentage":0},{"id":"HookyQR.beautify","total":797743,"percentage":15},{"id":"ionutvmi.path-autocomplete","total":105878,"percentage":2},{"id":"johnpapa.vscode-peacock","total":27229,"percentage":1},{"id":"ms-vsliveshare.vsliveshare","total":408465,"percentage":8},{"id":"nrwl.angular-console","total":25876,"percentage":1},{"id":"PKief.material-icon-theme","total":27259,"percentage":1},{"id":"pranaygp.vscode-css-peek","total":793272,"percentage":15},{"id":"ritwickdey.LiveServer","total":1632567,"percentage":32},{"id":"self","total":1320585,"percentage":26}]
+[2020-03-06 11:42:30.110] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: downloading
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:447:524
+[2020-03-06 11:42:32.090] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: downloading
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:447:524
+[2020-03-06 11:42:44.560] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 5189.729ms, saved PROFILE here: '/tmp/exthost-5619bc.cpuprofile' [{"id":"nrwl.angular-console","total":5189291,"percentage":100}]
+[2020-03-06 12:34:26.354] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 5387.811ms, saved PROFILE here: '/tmp/exthost-85a77a.cpuprofile' [{"id":"nrwl.angular-console","total":5387169,"percentage":100}]
+[2020-03-06 12:49:03.480] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 6184.196ms, saved PROFILE here: '/tmp/exthost-faf6fa.cpuprofile' [{"id":"gc","total":30160,"percentage":0},{"id":"nrwl.angular-console","total":6153788,"percentage":100}]
+[2020-03-06 13:11:44.638] [renderer1] [error] Illegal argument: Error: Illegal argument
+    at Object.t.illegalArgument (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:54:146)
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1843:749
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1789:61
+    at h.invokeFunction (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1580:522)
+    at u._tryExecuteCommand (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3331:844)
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3331:578
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-03-06 13:12:29.374] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 5387.283ms, saved PROFILE here: '/tmp/exthost-bf4502.cpuprofile' [{"id":"nrwl.angular-console","total":5387035,"percentage":100}]
+[2020-03-06 13:13:48.293] [renderer1] [warning] {}
+[2020-03-06 13:13:48.626] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 93% of 784.358ms, saved PROFILE here: '/tmp/exthost-8f2a2d.cpuprofile' [{"id":"Angular.ng-template","total":161,"percentage":0},{"id":"gc","total":12299,"percentage":2},{"id":"nrwl.angular-console","total":731621,"percentage":93},{"id":"pranaygp.vscode-css-peek","total":158,"percentage":0},{"id":"program","total":14755,"percentage":2},{"id":"self","total":790,"percentage":0},{"id":"vscode.merge-conflict","total":23774,"percentage":3},{"id":"vscode.typescript-language-features","total":595,"percentage":0}]
+[2020-03-06 15:36:38.661] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 78% of 2934.819ms, saved PROFILE here: '/tmp/exthost-75f045.cpuprofile' [{"id":"AESSoft.aessoft-class-autocomplete","total":110,"percentage":0},{"id":"Angular.ng-template","total":8441,"percentage":0},{"id":"dbaeumer.jshint","total":157,"percentage":0},{"id":"EditorConfig.EditorConfig","total":41340,"percentage":1},{"id":"eg2.tslint","total":622,"percentage":0},{"id":"esbenp.prettier-vscode","total":103255,"percentage":4},{"id":"gc","total":88223,"percentage":3},{"id":"ms-vscode.vscode-typescript-tslint-plugin","total":157,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":65950,"percentage":2},{"id":"nrwl.angular-console","total":2301151,"percentage":78},{"id":"pranaygp.vscode-css-peek","total":782,"percentage":0},{"id":"program","total":127891,"percentage":4},{"id":"self","total":149166,"percentage":5},{"id":"vscode.extension-editing","total":312,"percentage":0},{"id":"vscode.git","total":934,"percentage":0},{"id":"vscode.html-language-features","total":155,"percentage":0},{"id":"vscode.json-language-features","total":14363,"percentage":0},{"id":"vscode.merge-conflict","total":1438,"percentage":0},{"id":"vscode.typescript-language-features","total":29849,"percentage":1},{"id":"vscode.vscode-account","total":319,"percentage":0}]
+[2020-03-06 15:36:39.171] [renderer1] [error] Illegal argument: Error: Illegal argument
+    at Object.t.illegalArgument (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:54:146)
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1843:749
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1789:61
+    at h.invokeFunction (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1580:522)
+    at u._tryExecuteCommand (file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3331:844)
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3331:578
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-03-06 15:37:46.910] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 5181.942ms, saved PROFILE here: '/tmp/exthost-8661d5.cpuprofile' [{"id":"gc","total":6894,"percentage":0},{"id":"nrwl.angular-console","total":5174837,"percentage":100}]
+[2020-03-06 15:41:02.301] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 5222.72ms, saved PROFILE here: '/tmp/exthost-b74682.cpuprofile' [{"id":"gc","total":5995,"percentage":0},{"id":"nrwl.angular-console","total":5216472,"percentage":100}]
+[2020-03-06 15:46:27.660] [renderer1] [error] <semantic> TypeScript Server Error (3.7.5)
+Cannot read property 'end' of undefined
+TypeError: Cannot read property 'end' of undefined
+    at getClassOrObjectBraceEnds (tsserver.js:119887:148)
+    at ChangeTracker.getInsertNodeAtStartPrefixSuffix (tsserver.js:119614:99)
+    at ChangeTracker.insertNodeAtStartWorker (tsserver.js:119607:136)
+    at ChangeTracker.insertNodeAtClassStart (tsserver.js:119598:22)
+    at tsserver.js:123360:175
+    at outputMethod (tsserver.js:125503:21)
+    at addNewNodeForMemberSymbol (tsserver.js:125480:25)
+    at Object.createMissingMemberNodes (tsserver.js:125394:21)
+    at addMissingDeclarations (tsserver.js:123360:21)
+    at tsserver.js:123321:100
+    at Function.ChangeTracker.with (tsserver.js:119390:17)
+    at tsserver.js:123321:68
+    at Object.mapDefined (tsserver.js:565:30)
+    at Object.getCodeActions (tsserver.js:123320:27)
+    at tsserver.js:120431:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120431:23)
+    at tsserver.js:131114:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Proxy.getCodeFixesAtPosition (tsserver.js:131112:23)
+    at TSLintPlugin.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:170:34)
+    at Proxy.intercept.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:77:25)
+    at IOSession.Session.getCodeFixes (tsserver.js:140767:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139552:61)
+    at tsserver.js:140960:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140951:28)
+    at IOSession.Session.executeCommand (tsserver.js:140960:33)
+    at IOSession.Session.onMessage (tsserver.js:140983:35)
+    at Interface.<anonymous> (tsserver.js:142298:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <semantic> TypeScript Server Error (3.7.5)
+Cannot read property 'end' of undefined
+TypeError: Cannot read property 'end' of undefined
+    at getClassOrObjectBraceEnds (tsserver.js:119887:148)
+    at ChangeTracker.getInsertNodeAtStartPrefixSuffix (tsserver.js:119614:99)
+    at ChangeTracker.insertNodeAtStartWorker (tsserver.js:119607:136)
+    at ChangeTracker.insertNodeAtClassStart (tsserver.js:119598:22)
+    at tsserver.js:123360:175
+    at outputMethod (tsserver.js:125503:21)
+    at addNewNodeForMemberSymbol (tsserver.js:125480:25)
+    at Object.createMissingMemberNodes (tsserver.js:125394:21)
+    at addMissingDeclarations (tsserver.js:123360:21)
+    at tsserver.js:123321:100
+    at Function.ChangeTracker.with (tsserver.js:119390:17)
+    at tsserver.js:123321:68
+    at Object.mapDefined (tsserver.js:565:30)
+    at Object.getCodeActions (tsserver.js:123320:27)
+    at tsserver.js:120431:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120431:23)
+    at tsserver.js:131114:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Proxy.getCodeFixesAtPosition (tsserver.js:131112:23)
+    at TSLintPlugin.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:170:34)
+    at Proxy.intercept.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:77:25)
+    at IOSession.Session.getCodeFixes (tsserver.js:140767:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139552:61)
+    at tsserver.js:140960:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140951:28)
+    at IOSession.Session.executeCommand (tsserver.js:140960:33)
+    at IOSession.Session.onMessage (tsserver.js:140983:35)
+    at Interface.<anonymous> (tsserver.js:142298:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:49149)
+	at h.dispatchResponse (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:213785)
+	at h.dispatchMessage (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212703)
+	at /snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212179
+	at l.fire (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:541)
+	at t.Reader.onLengthData (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:219256)
+	at Socket.<anonymous> (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:218904)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-03-06 15:53:33.599] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 5280.755ms, saved PROFILE here: '/tmp/exthost-6232ba.cpuprofile' [{"id":"gc","total":6446,"percentage":0},{"id":"nrwl.angular-console","total":5274145,"percentage":100}]
+[2020-03-06 16:02:59.986] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 97% of 2316.31ms, saved PROFILE here: '/tmp/exthost-c02c84.cpuprofile' [{"id":"Angular.ng-template","total":488,"percentage":0},{"id":"gc","total":6815,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":327,"percentage":0},{"id":"natewallace.angular2-inline","total":7497,"percentage":0},{"id":"nrwl.angular-console","total":2256986,"percentage":97},{"id":"program","total":569,"percentage":0},{"id":"self","total":39325,"percentage":2},{"id":"vscode.typescript-language-features","total":3553,"percentage":0},{"id":"vscode.vscode-account","total":399,"percentage":0}]
+[2020-03-06 16:04:08.197] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 98% of 3113.249ms, saved PROFILE here: '/tmp/exthost-6db6ef.cpuprofile' [{"id":"Angular.ng-template","total":962,"percentage":0},{"id":"dbaeumer.jshint","total":707,"percentage":0},{"id":"eg2.tslint","total":4189,"percentage":0},{"id":"gc","total":11464,"percentage":0},{"id":"ionutvmi.path-autocomplete","total":325,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":538,"percentage":0},{"id":"nrwl.angular-console","total":3040862,"percentage":98},{"id":"pranaygp.vscode-css-peek","total":509,"percentage":0},{"id":"program","total":686,"percentage":0},{"id":"self","total":46498,"percentage":1},{"id":"vscode.html-language-features","total":3376,"percentage":0},{"id":"vscode.json-language-features","total":328,"percentage":0},{"id":"vscode.merge-conflict","total":491,"percentage":0},{"id":"vscode.typescript-language-features","total":2034,"percentage":0}]
+[2020-03-06 16:08:20.685] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 98% of 4156.698ms, saved PROFILE here: '/tmp/exthost-2d3dd0.cpuprofile' [{"id":"Angular.ng-template","total":954,"percentage":0},{"id":"gc","total":12883,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":320,"percentage":0},{"id":"natewallace.angular2-inline","total":330,"percentage":0},{"id":"nrwl.angular-console","total":4054203,"percentage":98},{"id":"program","total":41972,"percentage":1},{"id":"self","total":41554,"percentage":1},{"id":"vscode.typescript-language-features","total":4279,"percentage":0}]
+[2020-03-06 16:54:56.756] [renderer1] [warning] {}
+[2020-03-06 16:55:10.212] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 95% of 5239.596ms, saved PROFILE here: '/tmp/exthost-538f5a.cpuprofile' [{"id":"AESSoft.aessoft-class-autocomplete","total":335,"percentage":0},{"id":"Angular.ng-template","total":486,"percentage":0},{"id":"dbaeumer.jshint","total":410,"percentage":0},{"id":"EditorConfig.EditorConfig","total":114052,"percentage":2},{"id":"eg2.tslint","total":317,"percentage":0},{"id":"eg2.vscode-npm-script","total":471,"percentage":0},{"id":"esbenp.prettier-vscode","total":84585,"percentage":2},{"id":"gc","total":19469,"percentage":0},{"id":"ionutvmi.path-autocomplete","total":488,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":663,"percentage":0},{"id":"nrwl.angular-console","total":4971561,"percentage":95},{"id":"pranaygp.vscode-css-peek","total":489,"percentage":0},{"id":"program","total":156,"percentage":0},{"id":"self","total":5680,"percentage":0},{"id":"vscode.css-language-features","total":107,"percentage":0},{"id":"vscode.emmet","total":4013,"percentage":0},{"id":"vscode.extension-editing","total":156,"percentage":0},{"id":"vscode.html-language-features","total":1526,"percentage":0},{"id":"vscode.json-language-features","total":462,"percentage":0},{"id":"vscode.merge-conflict","total":30075,"percentage":1},{"id":"vscode.typescript-language-features","total":1253,"percentage":0}]
+[2020-03-06 17:21:30.674] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 98% of 3033.048ms, saved PROFILE here: '/tmp/exthost-5b23e2.cpuprofile' [{"id":"gc","total":11499,"percentage":0},{"id":"nrwl.angular-console","total":2961336,"percentage":98}]
+[2020-03-06 17:23:49.960] [renderer1] [error] <semantic> TypeScript Server Error (3.7.5)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+    at Object.cast (tsserver.js:1349:25)
+    at doChange (tsserver.js:121270:40)
+    at tsserver.js:121172:109
+    at Function.ChangeTracker.with (tsserver.js:119390:17)
+    at Object.getCodeActions (tsserver.js:121172:64)
+    at tsserver.js:120431:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120431:23)
+    at tsserver.js:131114:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Proxy.getCodeFixesAtPosition (tsserver.js:131112:23)
+    at TSLintPlugin.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:170:34)
+    at Proxy.intercept.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:77:25)
+    at IOSession.Session.getCodeFixes (tsserver.js:140767:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139552:61)
+    at tsserver.js:140960:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140951:28)
+    at IOSession.Session.executeCommand (tsserver.js:140960:33)
+    at IOSession.Session.onMessage (tsserver.js:140983:35)
+    at Interface.<anonymous> (tsserver.js:142298:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <semantic> TypeScript Server Error (3.7.5)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+    at Object.cast (tsserver.js:1349:25)
+    at doChange (tsserver.js:121270:40)
+    at tsserver.js:121172:109
+    at Function.ChangeTracker.with (tsserver.js:119390:17)
+    at Object.getCodeActions (tsserver.js:121172:64)
+    at tsserver.js:120431:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120431:23)
+    at tsserver.js:131114:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Proxy.getCodeFixesAtPosition (tsserver.js:131112:23)
+    at TSLintPlugin.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:170:34)
+    at Proxy.intercept.getCodeFixesAtPosition (/home/ahmed/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/node_modules/typescript-tslint-plugin/out/plugin.js:77:25)
+    at IOSession.Session.getCodeFixes (tsserver.js:140767:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139552:61)
+    at tsserver.js:140960:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140951:28)
+    at IOSession.Session.executeCommand (tsserver.js:140960:33)
+    at IOSession.Session.onMessage (tsserver.js:140983:35)
+    at Interface.<anonymous> (tsserver.js:142298:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:49149)
+	at h.dispatchResponse (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:213785)
+	at h.dispatchMessage (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212703)
+	at /snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212179
+	at l.fire (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:541)
+	at t.Reader.onLengthData (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:219256)
+	at Socket.<anonymous> (/snap/code/25/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:218904)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-03-06 17:24:39.833] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 98% of 3374.353ms, saved PROFILE here: '/tmp/exthost-5e118c.cpuprofile' [{"id":"Angular.ng-template","total":1021,"percentage":0},{"id":"EditorConfig.EditorConfig","total":1665,"percentage":0},{"id":"esbenp.prettier-vscode","total":5673,"percentage":0},{"id":"gc","total":12377,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":357,"percentage":0},{"id":"natewallace.angular2-inline","total":489,"percentage":0},{"id":"nrwl.angular-console","total":3317566,"percentage":98},{"id":"program","total":6628,"percentage":0},{"id":"self","total":15567,"percentage":0},{"id":"vscode.git","total":970,"percentage":0},{"id":"vscode.html-language-features","total":1916,"percentage":0},{"id":"vscode.json-language-features","total":156,"percentage":0},{"id":"vscode.typescript-language-features","total":9780,"percentage":0}]
+[2020-03-06 18:40:07.903] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 29699.727ms, saved PROFILE here: '/tmp/exthost-e59620.cpuprofile' [{"id":"gc","total":2962,"percentage":0},{"id":"nrwl.angular-console","total":29663758,"percentage":100}]
+[2020-03-06 18:43:42.316] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 61% of 875.076ms, saved PROFILE here: '/tmp/exthost-610b55.cpuprofile' [{"id":"program","total":341018,"percentage":39},{"id":"self","total":180,"percentage":0},{"id":"vscode.git","total":533373,"percentage":61}]
+[2020-03-06 18:44:20.300] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 641.517ms, saved PROFILE here: '/tmp/exthost-658ee0.cpuprofile' [{"id":"nrwl.angular-console","total":641301,"percentage":100}]
+[2020-03-06 18:46:58.871] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 5421.998ms, saved PROFILE here: '/tmp/exthost-6fdde8.cpuprofile' [{"id":"gc","total":8138,"percentage":0},{"id":"nrwl.angular-console","total":5413425,"percentage":100}]
+[2020-03-06 21:41:39.480] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 96% of 3971.971ms, saved PROFILE here: '/tmp/exthost-523b90.cpuprofile' [{"id":"AESSoft.aessoft-class-autocomplete","total":165,"percentage":0},{"id":"eg2.tslint","total":2574,"percentage":0},{"id":"eg2.vscode-npm-script","total":14656,"percentage":0},{"id":"esbenp.prettier-vscode","total":38522,"percentage":1},{"id":"gc","total":19411,"percentage":0},{"id":"ms-vscode.vscode-typescript-tslint-plugin","total":231,"percentage":0},{"id":"natewallace.angular2-inline","total":429,"percentage":0},{"id":"nrwl.angular-console","total":3793423,"percentage":96},{"id":"program","total":5053,"percentage":0},{"id":"self","total":24516,"percentage":1},{"id":"vscode.git","total":1988,"percentage":0},{"id":"vscode.json-language-features","total":159,"percentage":0},{"id":"vscode.typescript-language-features","total":70519,"percentage":2},{"id":"vscode.vscode-account","total":158,"percentage":0}]
+[2020-03-06 21:43:03.553] [renderer1] [warning] {}
+[2020-03-06 21:43:19.243] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 92% of 5617.253ms, saved PROFILE here: '/tmp/exthost-0ff3c1.cpuprofile' [{"id":"gc","total":441574,"percentage":8},{"id":"nrwl.angular-console","total":5175466,"percentage":92}]
+[2020-03-06 21:55:59.725] [renderer1] [warning] UNRESPONSIVE extension host, 'nrwl.angular-console' took 100% of 6790.174ms, saved PROFILE here: '/tmp/exthost-a59882.cpuprofile' [{"id":"gc","total":5400,"percentage":0},{"id":"nrwl.angular-console","total":6784525,"percentage":100}]
+[2020-03-06 23:42:30.399] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: downloading
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:447:524
+[2020-03-06 23:42:32.258] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: downloading
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:447:524
+[2020-03-06 23:42:33.282] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: downloading
+    at file:///snap/code/25/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:447:524
