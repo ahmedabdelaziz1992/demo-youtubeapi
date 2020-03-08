@@ -1,0 +1,25 @@
+/**
+ * Basic typography style for copy text
+ */
+ 
+// body {
+//     color: $text-color;
+//     font: normal 125% / 1.4 $text-font-stack;
+// }
+
+html {
+    font: normal 75% / 1.4 $text-font-stack;
+}
+
+body {
+    color: $text-color;
+    font: inherit;
+}
+
+
+// Extra large devices (large desktops, 1600px and up)
+@media (min-width: 1600px) {
+    html {
+        font-size: 100%;
+    }
+}
