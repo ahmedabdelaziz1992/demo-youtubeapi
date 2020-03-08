@@ -1,0 +1,34 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+
+.channels-listing {
+  margin-bottom: 30px;
+  .filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+
+    .logo-link {
+      display: inline-block;
+
+      img {
+        width: 130px;
+      }
+    }
+
+  }
+
+  table {
+    td {
+      img {
+        width: 70px;
+      }
+
+      &.options {
+        text-align: end;
+      }
+    }
+  }
+}

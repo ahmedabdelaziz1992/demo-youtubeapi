@@ -1,0 +1,44 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the details page.
+// -----------------------------------------------------------------------------
+
+.video-details {
+  iframe {
+    margin-bottom: 20px;
+  }
+
+  .video-info {
+    .video-info__item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      padding: 15px 0;
+      border-bottom: 1px solid $light-grey;
+
+      .description {
+        white-space: pre;
+        width: 100%;
+      }
+
+      .statistics {
+        span {
+          margin: 0 5px;
+
+          &.like, &.dislike {
+            cursor: pointer;
+          }
+        }
+
+        fa-icon {
+          margin-right: 5px;
+        }
+
+      }
+    }
+  }
+
+  .published {
+    color: $brand-color;
+  }
+}
