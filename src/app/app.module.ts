@@ -20,6 +20,18 @@ import { LoaderInterceptor, TimePipe } from './_helpers';
 import { ChannelDetailsComponent } from './channel-details/channel-details.component';
 // Pipes
 import { SafePipe } from './_helpers';
+import { GoogleApiModule, GoogleApiService, GoogleAuthService, NgGapiClientConfig, NG_GAPI_CONFIG, GoogleApiConfig } from 'ng-gapi';
+
+
+const gapiClientConfig: NgGapiClientConfig = {
+  client_id: '377400578924-8urj708svnpv6a8p88coanu8svkdag8i.apps.googleusercontent.com',
+  discoveryDocs: [
+    'https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest'
+  ],
+  scope: [
+      'https://www.googleapis.com/auth/youtube.force-ssl'
+  ].join(' ')
+};
 
 @NgModule({
   declarations: [
@@ -39,7 +51,11 @@ import { SafePipe } from './_helpers';
     ReactiveFormsModule,
     NgbModule,
     NgxSpinnerModule,
-    FontAwesomeModule
+    FontAwesomeModule,
+    GoogleApiModule.forRoot({
+      provide: NG_GAPI_CONFIG,
+      useValue: gapiClientConfig
+    })
   ],
   providers: [
     { provide: HTTP_INTERCEPTORS, useClass: LoaderInterceptor, multi: true }

@@ -3,6 +3,10 @@
 // -----------------------------------------------------------------------------
 
 .video-details {
+  img {
+    object-fit: cover;
+  }
+
   iframe {
     margin-bottom: 20px;
   }
@@ -16,6 +20,13 @@
       padding: 15px 0;
       border-bottom: 1px solid $light-grey;
 
+      .rate {
+        ngb-rating {
+          font-size: 1.5rem;
+          color: $brand-color;
+        }
+      }
+
       .description {
         white-space: pre;
         width: 100%;
@@ -25,7 +36,8 @@
         span {
           margin: 0 5px;
 
-          &.like, &.dislike {
+          &.like,
+          &.dislike {
             cursor: pointer;
           }
         }
@@ -33,7 +45,6 @@
         fa-icon {
           margin-right: 5px;
         }
-
       }
     }
   }

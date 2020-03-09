@@ -1,7 +1,3 @@
-<ngx-spinner bdOpacity=0.9 bdColor="#333" size="medium" color="#fff" type="square-jelly-box" [fullScreen]="true">
-  <p style="color: white"></p>
-</ngx-spinner>
-
 <section class="channels-listing">
   <div class="container">
     <div class="search mt-3">
@@ -28,16 +24,16 @@
         <tbody>
           <tr *ngFor="let video of videos | slice: (page-1) * pageSize : (page-1) * pageSize + pageSize">
             <td scope="row">
-              <img [src]="video.snippet.thumbnails.medium.url">
+              <img [src]="video?.snippet.thumbnails.medium.url">
             </td>
             <td>
-              <ngb-highlight [result]="video.snippet.title" [term]="filter.value"></ngb-highlight>
+              <ngb-highlight [result]="video?.snippet.title" [term]="filter.value"></ngb-highlight>
             </td>
             <td>
-              <ngb-highlight [result]="video.snippet.publishedAt | date" [term]="filter.value"></ngb-highlight>
+              <ngb-highlight [result]="video?.snippet.publishedAt | date" [term]="filter.value"></ngb-highlight>
             </td>
             <td class="options">
-              <a class="main-btn" [routerLink]="['/details', video.id.videoId]">Details</a>
+              <a class="main-btn" [routerLink]="['/details', video?.id.videoId]">Details</a>
             </td>
           </tr>
         </tbody>

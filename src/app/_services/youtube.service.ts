@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { map } from 'rxjs/operators';
 import { environment } from 'src/environments/environment';
 import { Observable } from 'rxjs';
@@ -8,26 +8,13 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class YoutubeService {
-
-  apiKey: string = environment.apiKey;
+  private readonly API_KEY: string = 'AIzaSyDxDDFUOfke0MyptxrCg4S_RFCJNBPd-q4';
+  API_URL: string = environment.apiUrl;
 
   constructor(public http: HttpClient) { }
 
-  /*
-  List Channel by User Name
-  'https://www.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&forUsername={GoogleDevelopers}&key={YOUR_API_KEY}'
-
-  Get Channel cover
-  https://www.googleapis.com/youtube/v3/channels?part=brandingSettings&forUsername={USERNAME}&key={YOUR_API_KEY}
-
-  user name + cover
-  'https://www.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics%2CbrandingSettings&forUsername={GoogleDevelopers}&key={YOUR_API_KEY}'
-  */
-
-  // tslint:disable-next-line:ban-types
   getChannelVideos(channelId, maxResults): Observable<object> {
-    // tslint:disable-next-line:max-line-length
-    const url = `https://www.googleapis.com/youtube/v3/search?key=${this.apiKey}&channelId=${channelId}&order=date&part=snippet &type=video,id&maxResults=${maxResults}`;
+    const url = `${this.API_URL}/search?key=${this.API_KEY}&channelId=${channelId}&order=date&part=snippet &type=video,id&maxResults=${maxResults}`;
     return this.http.get(url)
       .pipe(map((res) => {
         return res;
@@ -35,10 +22,7 @@ export class YoutubeService {
   }
 
   getChannelByName(channelName: string): Observable<object> {
-    console.log(channelName.replace(/\s/g, ''));
-    // tslint:disable-next-line:max-line-length
-    const url = `https://www.googleapis.com/youtube/v3/channels?key=${this.apiKey}&forUsername=${channelName.replace(/\s/g, '')}&part=id`;
-    // const url = `https://www.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&forUsername=${name}&key=${this.apiKey}`;
+    const url = `${this.API_URL}/channels?key=${this.API_KEY}&forUsername=${channelName.replace(/\s/g, '')}&part=id`;
     return this.http.get(url)
       .pipe(map((res) => {
         return res;
@@ -46,10 +30,38 @@ export class YoutubeService {
   }
 
   getVideoInfo(id: string) {
-    const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${id}&key=${this.apiKey}`;
+    const url = `${this.API_URL}/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${id}&key=${this.API_KEY}`;
     return this.http.get(url)
       .pipe(map((res) => {
         return res;
       }));
   }
+
+  // To Like and Dislike From YoutubeAPI
+  rateVideo(videoId, rate, authtoken) {
+    const url = `${this.API_URL}/videos/rate?id=${videoId}&rating=${rate}&key=${this.API_KEY}`;
+    return this.http.post(url, {
+      headers: new HttpHeaders({
+        Authorization: `Bearer ${authtoken}`
+      })
+    });
+  }
+
+  set(key: string, data: any): void {
+    try {
+      localStorage.setItem(key, JSON.stringify(data));
+    } catch (e) {
+      console.error('Error saving to localStorage', e);
+    }
+  }
+
+  get(key: string) {
+    try {
+      return JSON.parse(localStorage.getItem(key));
+    } catch (e) {
+      console.error('Error getting data from localStorage', e);
+      return null;
+    }
+  }
+
 }

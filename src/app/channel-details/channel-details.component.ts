@@ -1,96 +1,35 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { YoutubeService } from '../_services';
+import { YoutubeService, UserService } from '../_services';
 import { faThumbsUp, faThumbsDown, faEye } from '@fortawesome/free-solid-svg-icons';
-
-let data = {
-  "kind": "youtube#videoListResponse",
-  "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/YP1M9DatMesCOEx5qqMA7oDIyHc\"",
-  "pageInfo": {
-    "totalResults": 1,
-    "resultsPerPage": 1
-  },
-  "items": [
-    {
-      "kind": "youtube#video",
-      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/7zPX2Toz-ePAHB7ujHZzlPRw2z4\"",
-      "id": "5C9S0V28aqQ",
-      "snippet": {
-        "publishedAt": "2020-02-18T13:29:42.000Z",
-        "channelId": "UCpui0-2JqcAcII4ybpB1q3w",
-        "title": "Amr Diab - Rooh | عمرو دياب - روح",
-        "description": "Amr Diab - Rooh | عمرو دياب - روح\n\nAmr Diab - Rooh, from album \"#Sahran\" Produced by #Nay ©2020. \n\nGet it now: https://amrdiab.lnk.to/Sahran\n\nLyrics: Ahmed Zaghlool\nComposer: Ahmed Zaghlool\nMusic Arranger & Mixage: Osama Elhendy\n\nOfficial Facebook: http://www.facebook.com/AmrDiab\nOfficial Twitter: http://www.twitter.com/AmrDiab\nOfficial Instagram: http://instagram.com/amrdiab\nOfficial Website: http://www.AmrDiab.net",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5C9S0V28aqQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5C9S0V28aqQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5C9S0V28aqQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5C9S0V28aqQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5C9S0V28aqQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Amr Diab",
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Amr Diab - Rooh | عمرو دياب - روح",
-          "description": "Amr Diab - Rooh | عمرو دياب - روح\n\nAmr Diab - Rooh, from album \"#Sahran\" Produced by #Nay ©2020. \n\nGet it now: https://amrdiab.lnk.to/Sahran\n\nLyrics: Ahmed Zaghlool\nComposer: Ahmed Zaghlool\nMusic Arranger & Mixage: Osama Elhendy\n\nOfficial Facebook: http://www.facebook.com/AmrDiab\nOfficial Twitter: http://www.twitter.com/AmrDiab\nOfficial Instagram: http://instagram.com/amrdiab\nOfficial Website: http://www.AmrDiab.net"
-        },
-        "defaultAudioLanguage": "ar"
-      },
-      "contentDetails": {
-        "duration": "PT4M24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3019908",
-        "likeCount": "48051",
-        "dislikeCount": "1004",
-        "favoriteCount": "0",
-        "commentCount": "329"
-      }
-    }
-  ]
-};
-
+import { NgbRatingConfig } from '@ng-bootstrap/ng-bootstrap';
+import { FormControl } from '@angular/forms';
 
 @Component({
   selector: 'app-channel-details',
   templateUrl: './channel-details.component.html',
-  styleUrls: ['./channel-details.component.scss']
+  styleUrls: ['./channel-details.component.scss'],
+  providers: [NgbRatingConfig]
 })
 export class ChannelDetailsComponent implements OnInit {
   videoId;
   videoUrl;
+  videoThumbnailUrl;
   apiResponse: any;
   videoInfo: any;
+  selectedRate = 0;
+  rateCtrl: FormControl = new FormControl('');
   faThumbsUp = faThumbsUp;
   faThumbsDown = faThumbsDown;
   faEye = faEye;
-  constructor(private youTubeService: YoutubeService, private route: ActivatedRoute) { }
+  addedToFav: boolean;
+  constructor(
+    private youTubeService: YoutubeService,
+    private route: ActivatedRoute,
+    private userService: UserService,
+    config: NgbRatingConfig) {
+    config.max = 5;
+  }
 
   ngOnInit(): void {
     this.route.params.subscribe(params => {
@@ -98,15 +37,99 @@ export class ChannelDetailsComponent implements OnInit {
       this.videoUrl = `https://www.youtube.com/embed/${this.videoId}?enablejsapi=1`;
       this.videoInformation(this.videoId);
     });
+
+    this.rateCtrl.valueChanges.subscribe(value => {
+      this.rateVideo(value);
+    });
+
+    const videos = this.youTubeService.get('vidoes');
+    const favoriteList = this.youTubeService.get('favoriteList');
+    if (videos !== null) {
+      const ratedVideoIndex = this.youTubeService.get('vidoes').findIndex((video) => video.id === this.videoId);
+      this.selectedRate = videos[ratedVideoIndex].rate;
+    }
+    if (favoriteList !== null) {
+      const favoriteVideoIndex = this.youTubeService.get('favoriteList').findIndex((video) => video.id === this.videoId);
+      if (favoriteVideoIndex > -1) {
+        this.addedToFav = true;
+      }
+    }
   }
 
   videoInformation(id) {
     this.youTubeService.getVideoInfo(id).subscribe((res: any) => {
       this.apiResponse = res;
+      this.videoThumbnailUrl = res.items[0].snippet.thumbnails.high.url;
       this.videoInfo = res.items[0];
-    }, (err) => {
-      console.log('error', err);
-    });
+    }, this.onError);
+  }
+
+  thumbVideo(rate: string) {
+    this.userService.signIn();
+    if (this.userService.isUserSignedIn) {
+      this.youTubeService.rateVideo(this.videoId, rate, this.userService.getToken()).subscribe(res => {
+        console.log(res);
+      }, this.onError);
+    } else {
+      this.userService.signIn();
+    }
+  }
+
+  onError(err) {
+    console.error(err);
+  }
+
+  rateVideo(event: number) {
+    if (event !== null) {
+      const videos = this.youTubeService.get('vidoes');
+      if (videos !== null) {
+        const ratedVideoIndex = this.youTubeService.get('vidoes').findIndex((video) => video.id === this.videoId);
+        if (ratedVideoIndex > -1) {
+          videos[ratedVideoIndex].rate = event;
+          this.youTubeService.set('vidoes', videos);
+        } else {
+          const newVideo = {
+            id: this.videoId,
+            rate: event
+          };
+          videos.push(newVideo);
+          this.youTubeService.set('vidoes', videos);
+        }
+      } else {
+        this.youTubeService.set('vidoes', [{
+          id: this.videoId,
+          rate: event
+        }]);
+      }
+    }
+  }
+
+  addToFavorite() {
+    const favoriteList = this.youTubeService.get('favoriteList');
+    if (favoriteList !== null) {
+      const favoriteVideoIndex = this.youTubeService.get('favoriteList').findIndex((video) => video.id === this.videoId);
+      if (favoriteVideoIndex > -1) {
+        favoriteList.splice(favoriteVideoIndex, 1);
+        this.addedToFav = false;
+        this.youTubeService.set('favoriteList', favoriteList);
+      } else {
+        const newVideo = {
+          id: this.videoId,
+          rate: this.selectedRate,
+          addFlag: true
+        };
+        favoriteList.push(newVideo);
+        this.addedToFav = true;
+        this.youTubeService.set('favoriteList', favoriteList);
+      }
+    } else {
+      this.addedToFav = true;
+      this.youTubeService.set('favoriteList', [{
+        id: this.videoId,
+        rate: this.selectedRate,
+        addFlag: true
+      }]);
+    }
   }
 
 }

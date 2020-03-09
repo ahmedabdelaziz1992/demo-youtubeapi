@@ -63,8 +63,6 @@ export class HomeComponent implements OnInit {
         // subscription for response
       ).subscribe((text: string) => {
         this.youTubeService.getChannelByName(text).subscribe((res: any) => {
-          console.log('res', res);
-          console.log('id', res.items[0]?.id);
           const channelId = res.items[0]?.id;
           this.getChannelData(channelId, 50);
         }, (err) => {
@@ -75,7 +73,6 @@ export class HomeComponent implements OnInit {
 
   getChannelData(channelId, maxResults) {
     this.youTubeService.getChannelVideos(channelId, maxResults).subscribe((res: any) => {
-      console.log('videos-res', res);
       this.videos = res.items;
       this.apiResponse = res;
       this.collectionSize = this.videos.length;

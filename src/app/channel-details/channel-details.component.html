@@ -1,23 +1,24 @@
 <section class="video-details">
-  <iframe id="video-iframe" width="100%" height="360"
-    [src]="videoUrl | safe: 'resourceUrl'" frameborder="0"></iframe>
+  <!-- <iframe id="video-iframe" width="100%" height="360"
+    [src]="videoUrl | safe: 'resourceUrl'" frameborder="0"></iframe> -->
+    <a [href]="videoUrl | safe: 'resourceUrl'" target="_blank"><img [src]="videoThumbnailUrl | safe: 'resourceUrl'" width="100%" height="360" /></a>
   <div class="container">
     <div class="video-info">
       <div class="video-info__item">
-        <h3 class="video-title">{{ videoInfo.snippet.title }}</h3>
-        <button class="secondary-btn">Add to favorite</button>
+        <h3 class="video-title">{{ videoInfo?.snippet.title }}</h3>
+        <button class="secondary-btn" [ngClass]="{'added': addedToFav === true}" (click)="addToFavorite()">Add to favorite</button>
       </div>
       <div class="video-info__item">
-        <div class="rate">Rate Now</div>
-        <div class="duration">Duration: {{ videoInfo.contentDetails.duration | time }}</div>
+        <div class="rate">Rate Now <ngb-rating (rateChange)="rateVideo($event)" [(rate)]="selectedRate"></ngb-rating></div>
+        <div class="duration">Duration: {{ videoInfo?.contentDetails.duration | time }}</div>
         <div class="statistics">
-          <p><span><fa-icon [icon]="faEye"></fa-icon> {{ videoInfo.statistics.viewCount | number }}</span> <span class="like"><fa-icon [icon]="faThumbsUp"></fa-icon> {{ videoInfo.statistics.likeCount | number }}</span> <span class="dislike"><fa-icon [icon]="faThumbsDown"></fa-icon> {{ videoInfo.statistics.dislikeCount | number }}</span></p>
+          <p><span><fa-icon [icon]="faEye"></fa-icon> {{ videoInfo?.statistics.viewCount | number }}</span> <span class="like" (click)="thumbVideo('like')"><fa-icon [icon]="faThumbsUp"></fa-icon> {{ videoInfo?.statistics.likeCount | number }}</span> <span class="dislike" (click)="thumbVideo('dislike')"><fa-icon [icon]="faThumbsDown"></fa-icon> {{ videoInfo?.statistics.dislikeCount | number }}</span></p>
         </div>
       </div>
       <div class="video-info__item">
-        <p class="published">Published on: {{ videoInfo.snippet.publishedAt | date }}</p>
+        <p class="published">Published on: {{ videoInfo?.snippet.publishedAt | date }}</p>
         <p class="description">
-          {{ videoInfo.snippet.description }}
+          {{ videoInfo?.snippet.description }}
         </p>
       </div>
     </div>
