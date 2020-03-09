@@ -8,6 +8,10 @@
   border: 1px solid $light-grey;
   border-radius: 5px;
   cursor: pointer;
+
+  &.added {
+    opacity: 0.5;
+  }
 }
 
 .btn-wrapper {
