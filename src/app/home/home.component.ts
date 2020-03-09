@@ -30,6 +30,8 @@ export class HomeComponent implements OnInit {
     this.videos = [];
     this.searchByChannel();
     this.filterByTitle();
+
+    this.initWithFavChannel('Amr Diab');
   }
 
   filterByTitle() {
@@ -44,6 +46,15 @@ export class HomeComponent implements OnInit {
       } else {
         this.videos = this.apiResponse.items;
       }
+    });
+  }
+
+  initWithFavChannel(text) {
+    this.youTubeService.getChannelByName(text).subscribe((res: any) => {
+      const channelId = res.items[0]?.id;
+      this.getChannelData(channelId, 50);
+    }, (err) => {
+      console.log('error', err);
     });
   }
 
@@ -76,6 +87,7 @@ export class HomeComponent implements OnInit {
       this.videos = res.items;
       this.apiResponse = res;
       this.collectionSize = this.videos.length;
+      this.youTubeService.set('channel', res.items);
     }, (err) => {
       console.log(err);
     });
