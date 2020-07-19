@@ -23,7 +23,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
     "@ng-bootstrap/ng-bootstrap": "^6.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "ng-gapi": "0.0.73",
     "ngx-spinner": "^8.1.0",
     "rxjs": "~6.5.4",
